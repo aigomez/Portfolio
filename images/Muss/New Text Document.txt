@@ -1,6 +1,0 @@
-I built this streaming service while I was studying at 'Networks and Software', which is based on recommending songs according to the genres selected by the user.
-
-It was a very interesting project to carry out but challenging at the same time, which I took a lot of affection for as it was one of the projects with the greatest size and dedication.
-
-Demo: http://34.95.229.120/
-Code: https://github.com/aigomez/Muss/

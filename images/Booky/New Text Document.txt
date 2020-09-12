@@ -1,8 +1,0 @@
-Booky was my first experience with Mobile (native), previously I had only tested applications and designed my websites for mobile but I had never built one on my own.
-
-Similar to Muss which is a music streaming service, Booky allows the user to select a book from the catalog.
-
-It was a completely different, challenging and exciting experience.
-
-Demo: https://www.amazon.com/dp/B085BBKTFG/
-Code: https://github.com/aigomez/Booky/
