@@ -1,0 +1,4 @@
+While I was studying the technological bachelor, I dreamed of developing a site where I could register movies and series which I have seen or had planned to see, be able to rate them and leave comments, so years later I fulfilled that illusion and developed this website.
+
+Demo: https://track-it-app.netlify.app/
+Code: https://github.com/aigomez/TrackIt/

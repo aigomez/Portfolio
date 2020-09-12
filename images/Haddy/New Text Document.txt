@@ -1,0 +1,8 @@
+This was the final project for the technological technician where I studied, we were asked to develop a system to be able to pay services, such as: electricity, water, Netflix, Spotify (all simulated of course).
+
+Therefore, after each payment, you generate points to exchange them for IT products (monitors, laptops, cell phones, etc.) that supposedly arrived at your house.
+
+It was a very interesting project to carry out since, unlike Booky or Track It, it was developed with the same equipment as Muss.
+
+Demo: https://haddy.netlify.app/
+Code: https://github.com/aigomez/Haddy/
